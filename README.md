@@ -1,2 +1,3 @@
-# git_test
-An initial use of your wonderful website and resources, tanks.
+# git test
+This here be my second of third Github repo!
+Hello Odin!
